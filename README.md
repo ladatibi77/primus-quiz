@@ -1,2 +1,2 @@
-# primus-quiz
+# Péter-quiz
 Péter névnapi ajándéka
